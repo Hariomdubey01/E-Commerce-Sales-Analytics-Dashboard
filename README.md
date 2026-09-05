@@ -198,3 +198,29 @@ Planned improvements include:
 - Mobile-Optimized Dashboard
 
 ---
+# 👨‍💻 Author
+
+**Hariom Dubey**  
+Aspiring **Data Analyst** passionate about transforming data into meaningful business insights.
+
+### Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Data Visualization
+- SQL
+- Python
+- Power BI
+- Machine Learning
+
+---
+
+## 📬 Contact
+
+| Platform | Link |
+|---|---|
+| 📧 Email | [hariomkumard8@gmail.com](mailto:hariomkumard8@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/itzhariomdubey](https://www.linkedin.com/in/itzhariomdubey) |
+| 💻 GitHub | [github.com/Hariomdubey01](https://github.com/Hariomdubey01) |
+
+---
